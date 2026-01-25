@@ -40,7 +40,7 @@ pipeline
 			{
 				steps
 				{
-					echo 'roysaumyajit@gmail.com'
+					echo 'roysaumyajit@gmail.com !'
 				}
 			}	
 			stage('Final Success')
